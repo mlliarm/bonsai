@@ -2,7 +2,7 @@
 
 Statistical benchmarking in J.
 
-See the [[http://j-raphael.net/posts/bonsai.html][documentation]] or browse the files here.
+See the [[http://j-raphael.net/posts/bonsai.html][documentation]] ([[Bonsai_docs.pdf][also as a PDF]]) or browse the files here.
 
 ** Installation
 
